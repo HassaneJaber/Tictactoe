@@ -36,19 +36,18 @@ Select your marker (X or O).
 
 The first player gets to choose their marker.
 The second player (or AI) gets the other marker.
-Enter your move (1-9) corresponding to board positions:
+3. **Enter your move (1-9)** corresponding to board positions:
 
+   | 1 | 2 | 3 |
+   |---|---|---|
+   | 4 | 5 | 6 |
+   |---|---|---|
+   | 7 | 8 | 9 |
 
- 1 | 2 | 3
----|---|---
- 4 | 5 | 6
----|---|---
- 7 | 8 | 9
-The game continues until:
+4. The game continues until:
+   - A player **wins** (3 markers in a row, column, or diagonal).
+   - The board is **full** (resulting in a draw).
 
-A player wins (3 markers in a row, column, or diagonal).
-The board is full (resulting in a draw).
-Replay or exit after the game ends.
 
 🧠 How AI Works (Minimax Algorithm)
 The AI simulates all possible moves and their outcomes.
