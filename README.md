@@ -41,7 +41,6 @@ The second player (or AI) gets the other marker.
    | 1 | 2 | 3 |
    |---|---|---|
    | 4 | 5 | 6 |
-   |---|---|---|
    | 7 | 8 | 9 |
 
 4. The game continues until:
